@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_small___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="bmi_calculator_string">BMI Calculator</string>
+	<string name="berat_badan_string">Berat badan</string>
+	<string name="masukkan_berat_badan_string">Masukkan berat badan</string>
+	<string name="tinggi_badan_string">Tinggi badan</string>
+	<string name="masukkan_tinggi_badan_string">Masukkan tinggi badan</string>
+	<string name="toast_string">TOAST</string>
+	<string name="hitung_string">HITUNG</string>
+	<string name="_0_string">0</string>
+</resources>

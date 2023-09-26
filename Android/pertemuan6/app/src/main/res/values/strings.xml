@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pertemuan6</string>
+    <array name="countries">
+        <item>Indonesia</item>
+        <item>Maroko</item>
+    </array>
+</resources>
