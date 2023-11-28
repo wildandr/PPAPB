@@ -1,2 +1,4 @@
-package com.example.student;public class StudentAdapter {
+package com.example.student;
+
+public class StudentAdapter {
 }

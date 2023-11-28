@@ -7,6 +7,10 @@ android {
     namespace = "com.example.pertemuan8"
     compileSdk = 33
 
+    buildFeatures {
+        dataBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.pertemuan8"
         minSdk = 21
